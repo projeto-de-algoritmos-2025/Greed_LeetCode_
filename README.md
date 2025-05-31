@@ -25,6 +25,6 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-| []() | Ana Caroline C. Rocha |
+| [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description) | Ana Caroline C. Rocha |
 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description) | Lucas Gobbi Bergholz |
 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description) | Lucas Gobbi Bergholz |
