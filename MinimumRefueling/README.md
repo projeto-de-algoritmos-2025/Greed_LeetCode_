@@ -14,15 +14,15 @@ Observe que se o carro chegar a um posto de gasolina com 0 combustível restante
 
 ### Caso 1
 
-![Case1](/MinimumRefueling/assets/img/caso1.png)
+![Case1](/MinimumRefueling/assets/img/caso01.png)
 
 ### Caso 2
 
-![Case2](/MinimumRefueling/assets/img/caso2.png)
+![Case2](/MinimumRefueling/assets/img/caso02.png)
 
 ### Caso 3
 
-![Case3](/MinimumRefueling/assets/img/caso3.png)
+![Case3](/MinimumRefueling/assets/img/caso03.png)
 
 ### Submissão
 
