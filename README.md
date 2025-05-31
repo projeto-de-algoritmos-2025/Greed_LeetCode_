@@ -2,7 +2,7 @@
 
 **Número da Lista:** 3<br>
 **Conteúdo da Disciplina:** Greed<br>
-**Vídeo de Apresentação:**
+**Vídeo de Apresentação:** [https://youtu.be/wp3NXqxnisU](https://youtu.be/wp3NXqxnisU)
 
 ## Alunos
 |Matrícula | Aluno |
