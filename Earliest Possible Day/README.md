@@ -1,4 +1,4 @@
-# [Non-overlapping Intervals](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description)
+# [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description)
 
 Você tem n sementes de flores. Cada semente deve ser plantada primeiro antes de começar a crescer e depois florescer. Plantar uma semente leva tempo e o mesmo acontece com o crescimento de uma semente. Você recebe duas matrizes inteiras indexadas em 0, plantTime e growTime, de comprimento n cada:
 
