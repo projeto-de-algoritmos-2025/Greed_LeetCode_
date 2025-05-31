@@ -19,7 +19,7 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  |  |
+| [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description) | Ana Caroline C. Rocha |
 
 ### Nível Difícil
 
